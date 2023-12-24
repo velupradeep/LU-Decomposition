@@ -42,6 +42,7 @@ B=np.array(b)
 result=lu_factor(A)
 sol=lu_solve(result,B)
 print(sol)
+
 ```
 
 ## Output:
