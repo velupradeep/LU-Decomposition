@@ -1,3 +1,4 @@
+"C:\Users\PRADEEP V\Desktop\WEB_LOGO-01.png"
 # LU Decomposition 
 
 ## AIM:
@@ -31,7 +32,7 @@ print(U)
 ```
 '''Program to solve a matrix using LU decomposition.
 Developed by:PRADEEP V 
-RegisterNumber: 23013543
+RegisterNumber: 212223240119
 '''
 import numpy as np
 from scipy.linalg import lu_factor,lu_solve
